@@ -5,15 +5,26 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | August 18, 2026 |
+| **Solved On** | August 19, 2026 |
 | **Tags** | Linked List, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.6 MB |
+| **Memory** | 43.9 MB |
 
 ## Approach
 
-Make two nodes (head and tail) and initialize head and tail to the smallest value. After that loop through the lists and update the tail according to minimum value node and after every iteration update tail to tail.next . after the loop if any list is remaining add that to the next of tail.
+check in advance that one of the list is empty or not and if one is empty then return other . 
+
+After that make two pointers head and tail (we have to just make the links or next pointers connect to the right node).
+
+initialize head and tail to the small value element.
+now we have to only update tail.
+
+inside loop check if list1 value is small then update tail.next and list1, similarly for other list.
+
+after each iteration update tail to the next.
+
+after the loop if there is any list elements left add that in one line using (expression) ? true value: false value. 
 
 ## Problem Description
 
