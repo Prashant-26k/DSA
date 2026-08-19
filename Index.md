@@ -11,3 +11,6 @@ All solved problems organized by pattern/category.
 - [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) - *Medium*
 - [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
+
+## Uncategorized
+- [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) - *Medium*
