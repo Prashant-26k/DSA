@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) - *Easy*
 
 ## Linked List
+- [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
 - [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 - [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) - *Medium*
 - [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
