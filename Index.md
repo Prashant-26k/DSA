@@ -14,4 +14,5 @@ All solved problems organized by pattern/category.
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
 
 ## Uncategorized
+- [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) - *Medium*
