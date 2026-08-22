@@ -19,3 +19,6 @@ All solved problems organized by pattern/category.
 
 ## Math
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
+
+## Strings
+- [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) - *Medium*
