@@ -16,3 +16,6 @@ All solved problems organized by pattern/category.
 ## Uncategorized
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) - *Medium*
+
+## Math
+- [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
