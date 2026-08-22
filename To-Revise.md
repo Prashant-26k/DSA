@@ -8,3 +8,4 @@ Check these off as you review them!
 - [ ] **Add Two Numbers** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Add%20Two%20Numbers)
 - [ ] **Copy List with Random Pointer** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer)
 - [ ] **Group Anagrams** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Group%20Anagrams)
+- [ ] **Longest Repeating Character Replacement** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement)
