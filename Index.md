@@ -21,4 +21,5 @@ All solved problems organized by pattern/category.
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
 
 ## Strings
+- [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) - *Medium*
 - [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) - *Medium*
