@@ -10,3 +10,4 @@ Check these off as you review them!
 - [ ] **Group Anagrams** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Group%20Anagrams)
 - [ ] **Longest Repeating Character Replacement** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement)
 - [ ] **Sliding Window Maximum** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Sliding%20Window%20Maximum)
+- [ ] **Single Number** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Single%20Number)
