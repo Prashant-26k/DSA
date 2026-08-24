@@ -23,3 +23,6 @@ All solved problems organized by pattern/category.
 ## Strings
 - [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) - *Medium*
 - [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) - *Medium*
+
+## Bit Manipulation
+- [Single Number](./LeetCode/Easy/Single%20Number) - *Easy*
