@@ -11,3 +11,4 @@ Check these off as you review them!
 - [ ] **Longest Repeating Character Replacement** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement)
 - [ ] **Sliding Window Maximum** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Sliding%20Window%20Maximum)
 - [ ] **Single Number** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Single%20Number)
+- [ ] **Find the XOR of Numbers Which Appear Twice** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice)
