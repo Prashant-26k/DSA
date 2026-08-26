@@ -25,5 +25,6 @@ All solved problems organized by pattern/category.
 - [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) - *Medium*
 
 ## Bit Manipulation
+- [Single Number III](./LeetCode/Medium/Single%20Number%20III) - *Medium*
 - [Find the XOR of Numbers Which Appear Twice](./LeetCode/Easy/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice) - *Easy*
 - [Single Number](./LeetCode/Easy/Single%20Number) - *Easy*
