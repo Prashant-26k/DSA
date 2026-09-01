@@ -14,3 +14,4 @@ Check these off as you review them!
 - [ ] **Find the XOR of Numbers Which Appear Twice** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice)
 - [ ] **Median Of Two Sorted Arrays** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Median%20Of%20Two%20Sorted%20Arrays)
 - [ ] **Single Number III** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Single%20Number%20III)
+- [ ] **Koko Eating Bananas** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Koko%20Eating%20Bananas)
