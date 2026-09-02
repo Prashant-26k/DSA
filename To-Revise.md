@@ -15,3 +15,4 @@ Check these off as you review them!
 - [ ] **Median Of Two Sorted Arrays** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Median%20Of%20Two%20Sorted%20Arrays)
 - [ ] **Single Number III** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Single%20Number%20III)
 - [ ] **Koko Eating Bananas** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Koko%20Eating%20Bananas)
+- [ ] **Remove Duplicates from Sorted Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array)
