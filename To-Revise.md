@@ -17,3 +17,4 @@ Check these off as you review them!
 - [ ] **Koko Eating Bananas** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Koko%20Eating%20Bananas)
 - [ ] **Remove Duplicates from Sorted Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array)
 - [ ] **Same Tree** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Same%20Tree)
+- [ ] **Maximum Depth of Binary Tree** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree)
