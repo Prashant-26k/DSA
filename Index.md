@@ -31,5 +31,6 @@ All solved problems organized by pattern/category.
 - [Single Number](./LeetCode/Easy/Single%20Number) - *Easy*
 
 ## Trees
+- [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) - *Medium*
 - [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) - *Easy*
 - [Same Tree](./LeetCode/Easy/Same%20Tree) - *Easy*
