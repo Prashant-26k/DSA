@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Single Number](./LeetCode/Easy/Single%20Number) - *Easy*
 
 ## Trees
+- [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) - *Medium*
 - [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) - *Medium*
 - [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) - *Easy*
 - [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) - *Medium*
