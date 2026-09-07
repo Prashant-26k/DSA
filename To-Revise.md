@@ -20,3 +20,4 @@ Check these off as you review them!
 - [ ] **Maximum Depth of Binary Tree** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree)
 - [ ] **Binary Tree Level Order Traversal** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal)
 - [ ] **Lowest Common Ancestor of a Binary Tree** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
+- [ ] **Lowest Common Ancestor of a Binary Search Tree** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
