@@ -22,3 +22,4 @@ Check these off as you review them!
 - [ ] **Lowest Common Ancestor of a Binary Tree** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 - [ ] **Lowest Common Ancestor of a Binary Search Tree** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 - [ ] **Validate Binary Search Tree** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Validate%20Binary%20Search%20Tree)
+- [ ] **Path Sum II** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Path%20Sum%20II)
